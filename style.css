@@ -1,14 +1,8 @@
-<<<<<<< HEAD
-
-*{margin: 0;}
-body{
-    background-color: rgb(170, 170, 170);
-=======
 * {
     margin: 0;
 }
 body{
-    background-color: rgb(170, 170, 170);
+    background-color: bisque;
 }
 
 div {
@@ -26,5 +20,4 @@ div {
 p {
     font-size: 20px;
     margin-top: 15px;
->>>>>>> ab2d6bd (Atualizei o css para ter um conforto visual)
 }
