@@ -21,3 +21,31 @@ p {
     font-size: 15px;
     margin-top: 15px;
 }
+
+footer {
+    margin-top: 100px;
+    display: flex;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(23, 23, 23);
+    bottom: 0;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+footer img {
+    width: 140px;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+footer a .fa-linkedin, .fa-instagram {
+    font-size: 25px;
+    margin: 8px 10px;
+}
